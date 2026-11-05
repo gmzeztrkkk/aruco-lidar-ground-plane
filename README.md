@@ -31,3 +31,7 @@ tests/              round-trip on that room
 ```
 
 Do not commit bags, video, images, DXF, or point clouds. `.gitignore` already refuses those extensions.
+
+## License
+
+[MIT](LICENSE)

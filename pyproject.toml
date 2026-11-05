@@ -7,6 +7,7 @@ name = "aruco-lidar-ground-plane"
 version = "0.1.0"
 description = "Solve a fixed camera from ArUco stations and a LiDAR survey, then map a pixel onto the ground plane."
 readme = "README.md"
+license = { file = "LICENSE" }
 requires-python = ">=3.10"
 dependencies = [
     "numpy",
